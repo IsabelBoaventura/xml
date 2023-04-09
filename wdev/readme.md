@@ -26,6 +26,21 @@ No navegador não há resposta aparente:
 O XML  gerado aparece nos elementos do arquivo, mas como se tivesse sido comentado. 
 
 
+## Criando os elementos
+
+Criamos o no principal 'root' ;
+
+Criamos o no secundário 'user';
+
+Associamos o 'user' ao 'root';
+
+Continua a ter as mesmas informações aparecendo apenas no F12 do navegador e não  no navegador em si. 
+
+
+
+![image](https://user-images.githubusercontent.com/1613816/230799853-29f49f69-b830-4d25-ae6b-5091acb9adb8.png)
+
+
 
 
 
