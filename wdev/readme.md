@@ -41,6 +41,17 @@ Continua a ter as mesmas informações aparecendo apenas no F12 do navegador e n
 ![image](https://user-images.githubusercontent.com/1613816/230799853-29f49f69-b830-4d25-ae6b-5091acb9adb8.png)
 
 
+## Criando as informações
+
+Criando os elementos 'id', 'nome' e 'email' e associando ao 'user'
+
+![image](https://user-images.githubusercontent.com/1613816/230800328-ca90013c-71f8-4070-a0b5-01b3abb3b23b.png)
+
+Agora as informações são apresentadas no navegador, apenas as informações sem as tags . 
+
+
+
+
 
 
 
